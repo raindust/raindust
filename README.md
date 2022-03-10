@@ -2,11 +2,11 @@
 
 <!--   GitHub stats graph -->
 ### 📈 GitHub Activity Graph:
-![Raindust's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=BEPb&hide_border=true&theme=redical)
+![Raindust's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=raindust&hide_border=true&theme=redical)
 
  | .                                                                                                                                           | .                                                                                                                             |
  | ------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- |
- | ![BEPb's github stats](https://github-readme-stats.vercel.app/api?username=raindust&show_icons=true&theme=radical&include_all_commits=true) | ![Quiec's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raindust&theme=radical&layout=compact) |
+ | ![Raindust's github stats](https://github-readme-stats.vercel.app/api?username=raindust&show_icons=true&theme=radical&include_all_commits=true) | ![Raindust's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=raindust&theme=radical&layout=compact) |
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=raindust"></img>
